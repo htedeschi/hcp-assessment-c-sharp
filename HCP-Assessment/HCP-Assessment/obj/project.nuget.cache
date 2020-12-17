@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7M2unx0DUxg50df93gbSzh8pwWzdAaSxc2kzX9n0FkhRLQYi3s96+YJbBvmCgWdT+D5Tm87B5nfm00ms9F9+yQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\hcp-assessment-c-sharp\\HCP-Assessment\\HCP-Assessment\\HCP-Assessment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henrique Tedeschi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

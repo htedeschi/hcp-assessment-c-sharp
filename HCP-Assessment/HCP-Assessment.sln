@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCP-Assessment", "HCP-Assessment\HCP-Assessment.csproj", "{AC26D936-1FC7-432B-A853-3C49E0045778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC26D936-1FC7-432B-A853-3C49E0045778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC26D936-1FC7-432B-A853-3C49E0045778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC26D936-1FC7-432B-A853-3C49E0045778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC26D936-1FC7-432B-A853-3C49E0045778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A112B7FC-8106-48F3-B4AE-A69EB5C3F4A0}
+	EndGlobalSection
+EndGlobal

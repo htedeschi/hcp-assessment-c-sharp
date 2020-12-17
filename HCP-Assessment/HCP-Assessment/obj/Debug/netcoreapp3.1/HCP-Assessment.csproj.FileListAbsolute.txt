@@ -1,0 +1,15 @@
+D:\Projects\hcp-assessment-c-sharp\HCP-Assessment\HCP-Assessment\bin\Debug\netcoreapp3.1\HCP-Assessment.exe
+D:\Projects\hcp-assessment-c-sharp\HCP-Assessment\HCP-Assessment\obj\Debug\netcoreapp3.1\HCP-Assessment.AssemblyInfoInputs.cache
+D:\Projects\hcp-assessment-c-sharp\HCP-Assessment\HCP-Assessment\obj\Debug\netcoreapp3.1\HCP-Assessment.AssemblyInfo.cs
+D:\Projects\hcp-assessment-c-sharp\HCP-Assessment\HCP-Assessment\bin\Debug\netcoreapp3.1\HCP-Assessment.deps.json
+D:\Projects\hcp-assessment-c-sharp\HCP-Assessment\HCP-Assessment\bin\Debug\netcoreapp3.1\HCP-Assessment.runtimeconfig.json
+D:\Projects\hcp-assessment-c-sharp\HCP-Assessment\HCP-Assessment\bin\Debug\netcoreapp3.1\HCP-Assessment.runtimeconfig.dev.json
+D:\Projects\hcp-assessment-c-sharp\HCP-Assessment\HCP-Assessment\bin\Debug\netcoreapp3.1\HCP-Assessment.dll
+D:\Projects\hcp-assessment-c-sharp\HCP-Assessment\HCP-Assessment\bin\Debug\netcoreapp3.1\HCP-Assessment.pdb
+D:\Projects\hcp-assessment-c-sharp\HCP-Assessment\HCP-Assessment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\hcp-assessment-c-sharp\HCP-Assessment\HCP-Assessment\obj\Debug\netcoreapp3.1\HCP-Assessment.csproj.CoreCompileInputs.cache
+D:\Projects\hcp-assessment-c-sharp\HCP-Assessment\HCP-Assessment\obj\Debug\netcoreapp3.1\HCP-Assessment.csproj.CopyComplete
+D:\Projects\hcp-assessment-c-sharp\HCP-Assessment\HCP-Assessment\obj\Debug\netcoreapp3.1\HCP-Assessment.dll
+D:\Projects\hcp-assessment-c-sharp\HCP-Assessment\HCP-Assessment\obj\Debug\netcoreapp3.1\HCP-Assessment.pdb
+D:\Projects\hcp-assessment-c-sharp\HCP-Assessment\HCP-Assessment\obj\Debug\netcoreapp3.1\HCP-Assessment.genruntimeconfig.cache
+D:\Projects\hcp-assessment-c-sharp\HCP-Assessment\HCP-Assessment\obj\Debug\netcoreapp3.1\HCP-Assessment.csprojAssemblyReference.cache
